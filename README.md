@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard analyzing ₦456,000 in retail sales across product category, customer age, and gender — built with slicers so any of those cuts can be explored instantly, without touching a single formula.
 
-![Dashboard screenshot](dashboard-screenshot.png)
+![Dashboard screenshot](dashboard-screenshot.jpg)
 
 ## Business problem
 
